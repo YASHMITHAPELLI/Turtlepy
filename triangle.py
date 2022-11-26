@@ -1,0 +1,11 @@
+import turtle
+ym=turtle.Turtle()
+ym.fd(100)
+ym.lt(120)
+ym.fd(100)
+ym.fd(100)
+ym.lt(120)
+ym.fd(100)
+ym.fd(100)
+ym.lt(120)
+ym.fd(100)

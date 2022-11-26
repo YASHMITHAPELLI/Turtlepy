@@ -1,0 +1,11 @@
+import turtle
+turtle.speed(1)
+tp=turtle.Turtle()
+tp.fd(1000)
+tp.rt(90)
+tp.fd(1000)
+tp.rt(90)
+tp.fd(1000)
+tp.rt(90)
+tp.fd(1000)
+tp.rt(90)
